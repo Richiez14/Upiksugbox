@@ -1,0 +1,8 @@
+{
+  "name": "Upik Suggestion Box",
+  "description": "A platform for students to submit suggestions and complaints, and for admins to manage and respond to feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
